@@ -1,2 +1,2 @@
 # RickRolling
-A function to rickroll your friends whom use R programming
+A function to RickRoll your friends whom use R programming
